@@ -7,7 +7,8 @@ This book can be used as a template for other books. It includes a starter packa
 
 ``` {figure} figures/Foto Crezeepolder 2.JPG
 ---
-width: 50%
+width: 75%
+height: 50%
 name: fig_mijneerstefiguur
 ---
 add bestand in de folder
