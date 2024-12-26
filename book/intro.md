@@ -9,7 +9,7 @@ This book can be used as a template for other books. It includes a starter packa
 ---
 width: 75%
 height: 50%
-name: fig_mijneerstefiguur
+name: Crezeepolder Ridderkerk
 ---
 add bestand in de folder
 ``` 
