@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 width: 75%
 height: 50%
-name: fig_mijneerstefiguur
+name: fig_Crezeepolder Ridderkerk
 ---
 Crezeepolder Ridderkerk
 ``` 
