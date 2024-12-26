@@ -4,9 +4,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ``` {figure} figures/FotoCrezeepolder.JPG
 ---
-width: 100%
-height: 66%
-name: Crezeepolder Ridderkerk
+width: 75%
+height: 50%
+name: fig_mijneerstefiguur
 ---
 Crezeepolder Ridderkerk
 ``` 
