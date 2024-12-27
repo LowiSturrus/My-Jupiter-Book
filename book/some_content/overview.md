@@ -60,14 +60,14 @@ Er zijn twee methoden om een tabel in te voegen. Die worden hieronder getoond.
 :header-rows: 1
 :name: sancties
 * - Gedrag
-- Sanctie bij 1e keer
-- Sanctie bij 2e keer
+  - Sanctie bij 1e keer
+  - Sanctie bij 2e keer
 * - Niet (tijdig of met een geldige reden) afgemeld 
-- Een penalty                                       
-- uitsluiting              
+  - Een penalty                                       
+  - uitsluiting              
 ``` 
 
 ## Referenties
 
 De link naar een website wordt gemaakt met:
-[tekst](https://www.startpage.com)
+[startpage](https://www.startpage.com)
