@@ -37,7 +37,7 @@ Voor de betavakken zijn wiskundige vergelijkingen essentieel. In het volgende st
 
 $$F_{res} = m.a$$ (1.1)
 
-Waarbij gelabelde vergelijkingen, zoals {eq}`1.1` naar verwezen kan worden. Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
+Waarbij naar gelabelde vergelijkingen, zoals {eq}`vergelijking 1.1` naar verwezen kan worden. Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
 
 ## Een tabel invoegen
 
@@ -74,8 +74,8 @@ Er zijn twee methoden om een tabel in te voegen. Die worden hieronder getoond.
 De link naar een website wordt gemaakt met:
 [startpage](https://www.startpage.com)
 
-De verwijzing naar een vergelijking: {eq}`1.1`
+De verwijzing naar {eq}`vergelijking 1.1`
 
-De verwijzing naar een tabel: {numref}`Tabel {number} 1`
+De verwijzing naar {numref}`Tabel {1} sancties`
 
-De verwijzing naar een figuur: {numref}`Figuur {number} 2`
+De verwijzing naar {numref}`Figuur 2 fig_Crezeepolder Ridderkerk`
