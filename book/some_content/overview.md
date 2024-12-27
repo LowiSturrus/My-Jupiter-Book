@@ -3,6 +3,9 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Visuele middelen toevoegen
+
+Onder visuele middelen wordt verstaan afbeeldingen en video's. Hoe deze kunnen worden ingevoegd wordt hieronder getoond.
+
 ### Aanmaken van een afbeelding
 
 ``` {figure} /figures/FotoCrezeepolder.JPG
@@ -35,6 +38,17 @@ $$F_{res} = m.a$$                                                               
 Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
 . 
 ## Invoegen tabel
+
+Er zijn twee methoden om een tabel in te voegen. Die worden hieronder getoond
+
+### Methode 1
+
+|Kop 1|Kop 2|Kop3|
+|---|---|---|
+|tekst 1|tekst 2|tekst 3|
+|tekst 4|tekst 5|tekst 6|
+
+### Methode 2
 
 ```{list-table} Overzicht van sancties bij bepaald gedrag
 :header-rows: 1
