@@ -1,4 +1,4 @@
-# Inleiding
+# Mijn eerste aanpassingen via GitHUB
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -35,9 +35,9 @@ Crezeepolder Ridderkerk
 
 Voor de betavakken zijn wiskundige vergelijkingen essentieel. In het volgende staat een voorbeeld hoe een vergelijking kan worden ingevoegd'
 
-$$F_{res} = m.a$$ (1)
+$$F_{res} = m.a$$ (1.1)
 
-Waarbij gelabelde vergelijkingen, zoals ({eq}`1`) naar verwezen kan worden. Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
+Waarbij gelabelde vergelijkingen, zoals {eq}`1.1` naar verwezen kan worden. Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
 
 ## Een tabel invoegen
 
@@ -74,5 +74,8 @@ Er zijn twee methoden om een tabel in te voegen. Die worden hieronder getoond.
 De link naar een website wordt gemaakt met:
 [startpage](https://www.startpage.com)
 
-De verwijzing naar een tabel:
-en tabel zoals {numref}`Tabel {number} <1>`
+De verwijzing naar een vergelijking: {eq}`1.1`
+
+De verwijzing naar een tabel: {numref}`Tabel {number} 1`
+
+De verwijzing naar een figuur: {numref}`Figuur {number} 2`
