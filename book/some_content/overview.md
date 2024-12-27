@@ -35,9 +35,9 @@ Crezeepolder Ridderkerk
 
 Voor de betavakken zijn wiskundige vergelijkingen essentieel. In het volgende staat een voorbeeld hoe een vergelijking kan worden ingevoegd'
 
-$$F_{res} = m.a$$ (19.1)
+$$F_{res} = m.a$$ (1)
 
-Waarbij gelabelde vergelijkingen, zoals ({eq}`19,1`) naar verwezen kan worden. Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
+Waarbij gelabelde vergelijkingen, zoals ({eq}`1`) naar verwezen kan worden. Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
 
 ## Een tabel invoegen
 
@@ -59,7 +59,7 @@ Er zijn twee methoden om een tabel in te voegen. Die worden hieronder getoond.
   - Sanctie bij 1e keer
   - Sanctie bij 2e keer
   - Sanctie bij 3e keer
-* - Niet tijdig of met een geldige reden) afgemeld 
+* - Niet tijdig afgemeld 
   - Een penalty                                       
   - uitsluiting
   - schorsing
@@ -73,5 +73,6 @@ Er zijn twee methoden om een tabel in te voegen. Die worden hieronder getoond.
 
 De link naar een website wordt gemaakt met:
 [startpage](https://www.startpage.com)
+
 De verwijzing naar een tabel:
-en tabel zoals {numref}`Tabel {1} <Gedrag>
+en tabel zoals {numref}`Tabel {number} <1>`
