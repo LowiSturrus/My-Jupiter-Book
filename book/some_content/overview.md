@@ -33,13 +33,19 @@ Crezeepolder Ridderkerk
 
 ## Vergelijking toevoegen
 
+Voor de betavakken zijn wiskundige vergelijkingen essentieel. Ook in JB’s kun je vergelijkingen opnemen. Wat in LaTeX kan, kan in JB ook, bijv:
+
+$$F_{res} = m.a$$ (19.1)
+Waarbij gelabelde vergelijkingen, zoals (19.1) naar verwezen kan worden.
+
+
 $$F_{res} = m.a$$                                                                    (1.1)#
 
 Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
 . 
-## Invoegen tabel
+## Een tabel invoegen
 
-Er zijn twee methoden om een tabel in te voegen. Die worden hieronder getoond
+Er zijn twee methoden om een tabel in te voegen. Die worden hieronder getoond.
 
 ### Methode 1
 
@@ -60,3 +66,8 @@ Er zijn twee methoden om een tabel in te voegen. Die worden hieronder getoond
 - Een penalty                                       
 - uitsluiting              
 ``` 
+
+## Referenties
+
+De link naar een website wordt gemaakt met:
+[tekst](https://www.startpage.com)
