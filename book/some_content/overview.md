@@ -9,7 +9,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 width: 75%
 height: 50%
-align: center
 name: fig_Crezeepolder Ridderkerk
 ---
 Crezeepolder Ridderkerk
@@ -31,7 +30,19 @@ Crezeepolder Ridderkerk
 
 ## Vergelijking toevoegen
 
-$$F_{res} = m.a$$                                                                        
+$$F_{res} = m.a$$                                                                    (1.1)#
 
 Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
 . 
+## Invoegen tabel
+
+```{list-table} Overzicht van sancties bij bepaald gedrag
+:header-rows: 1
+:name: sancties
+* - Gedrag
+- Sanctie bij 1e keer
+- Sanctie bij 2e keer
+* - Niet (tijdig of met een geldige reden) afgemeld 
+- Een penalty                                       
+- uitsluiting              
+``` 
