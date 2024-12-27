@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 width: 75%
 height: 50%
-align: right
+align: center
 name: fig_Crezeepolder Ridderkerk
 ---
 Crezeepolder Ridderkerk
