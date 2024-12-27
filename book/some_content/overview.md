@@ -29,9 +29,9 @@ Crezeepolder Ridderkerk
     </div>
 </div>
 
-##Invoegen vergelijking
+## Vergelijking toevoegen
 
-$$F_{res} = m.a$$                                                                            (1.1)
+$$F_{res} = m.a$$                                                                        
 
 Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
 . 
