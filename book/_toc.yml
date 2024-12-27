@@ -7,7 +7,6 @@ parts:
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
-    - file: references.md
     - file: exercises
       sections:
       - file: exercises/001.md
@@ -17,5 +16,6 @@ parts:
       - file: exercises/005.md
       - file: exercises/006.md
       - file: exercises/summary
+    - file: references.md
     - file: changelog.md
     - file: credits.md
