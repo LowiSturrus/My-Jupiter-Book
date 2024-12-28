@@ -1,4 +1,4 @@
-# Mijn eerste aanpassingen via GitHUB
+# Introductie
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -12,7 +12,7 @@ Onder visuele middelen wordt verstaan afbeeldingen en video's. Hoe deze kunnen w
 ---
 width: 75%
 height: 50%
-name: fig_Crezeepolder Ridderkerk
+name: fig_Crezeepolder
 ---
 Crezeepolder Ridderkerk
 ``` 
@@ -74,8 +74,8 @@ Er zijn twee methoden om een tabel in te voegen. Die worden hieronder getoond.
 De link naar een website wordt gemaakt met:
 [startpage](https://www.startpage.com)
 
-De verwijzing naar {eq}`vergelijking 1.1`
+De verwijzing naar vergelijking {eq}`1.1`
 
 De verwijzing naar {numref}`Tabel {1} sancties`
 
-De verwijzing naar {numref}`Figuur 2 fig_Crezeepolder Ridderkerk`
+De verwijzing naar {numref}`Figuur 2 fig_Crezeepolder`
