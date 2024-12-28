@@ -37,7 +37,7 @@ Voor de betavakken zijn wiskundige vergelijkingen essentieel. In het volgende st
 
 $$F_{res} = m.a$$ (1.1)
 
-Waarbij naar gelabelde vergelijkingen, zoals {eq}`vergelijking 1.1` naar verwezen kan worden. Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
+Waarbij naar gelabelde vergelijkingen, zoals vergelijking {eq}`1.1` naar verwezen kan worden. Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
 
 ## Een tabel invoegen
 
