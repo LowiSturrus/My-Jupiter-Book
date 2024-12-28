@@ -21,7 +21,7 @@ sphinx:
         text: lowisturrus.github.io
         image_light: Portus-Farelcollege-LOGO.svg # Put your logo for the light mode here (can be the same as image_dark)
         image_dark: Portus-Farelcollege-LOGO.svg # Put your logo for the dark mode here (can be the same as image_light)
-      repository_url: "https://github.com/LowiSturrus/My-Jupyter-Book" #add your own repo URL here
+      repository_url: "https://github.com/LowiSturrus/My-Jupiter-Book" #add your own repo URL here
       path_to_docs: "book"
       repository_branch: "main"
       use_edit_page_button: true
