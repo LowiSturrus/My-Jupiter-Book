@@ -131,6 +131,10 @@ Dit is een waarschuwing!
 Je kunt een dropdown class toevoegen `:class: dropdown`. 
 ```
 
+```{exercise}
+Work through the exercises attached to this page (you can find them in the left sidebar).
+```
+
 ```{exercise} Vermenigvuldiging
     :label: ex_kleine_opdracht
     Wat is 4x2?
