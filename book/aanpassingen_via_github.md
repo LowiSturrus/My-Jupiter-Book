@@ -132,6 +132,7 @@ Er zijn een paar voorgeprogrammeerde blokken. Dit zijn:
 
 ```{warning}
 Dit is een waarschuwing!
+```
 
 Of:
 
@@ -140,7 +141,7 @@ Of:
 Je kunt een dropdown class toevoegen `:class: dropdown`. 
 ```
 
-Exercise Een speciale admonition is de exercise, deze nummert automatisch. Als je een label toevoegt kun je ook een solution maken die daaraan koppelt:
+Een speciale admonition is de exercise, deze nummert automatisch. Als je een label toevoegt kun je ook een solution maken die daaraan koppelt:
 
 ```{exercise} Vermenigvuldiging
 :label: ex_kleine_opdracht
