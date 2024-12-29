@@ -118,17 +118,9 @@ De verwijzing naar {numref}`Tabel {number} <sancties>`
 De verwijzing naar {numref}`Figuur {number} <fig_Crezeepolder>`
 
 
-
 ## Admonitions
 
-Er zijn een paar voorgeprogrammeerde blokken. Dit zijn:
-
-- warning
-- tip
-- danger
-- note
-- admonition
-- important
+Er zijn een paar voorgeprogrammeerde blokken. Dit zijn: warning, tip, danger, note, admonition, important
 
 ```{warning}
 Dit is een waarschuwing!
@@ -141,30 +133,4 @@ Of:
 Je kunt een dropdown class toevoegen `:class: dropdown`. 
 ```
 
-Een speciale admonition is de exercise, deze nummert automatisch. Als je een label toevoegt kun je ook een solution maken die daaraan koppelt:
 
-```{exercise} Vermenigvuldiging
-:label: ex_kleine_opdracht
-Wat is 4x2?
-```
-resulterend in:
-
-:label: ex_kleine_opdracht
-Wat is 4x2?
-en het antwoord:
-
-```{solution} ex_kleine_opdracht
-:class: dropdown
-4x2 = 8
-
-```
-resulterend in:
-
-:class: dropdown
-4x2 = 8
-
-Om gebruik te maken van exercise moet:
-- In je requirement.txt file staan: sphinx-exercise
-- In je _config file staan:\
-    extra_extensions:\
-        - sphinx_exercise
