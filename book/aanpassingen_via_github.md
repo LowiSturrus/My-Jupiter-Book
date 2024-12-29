@@ -35,9 +35,9 @@ Crezeepolder Ridderkerk
 
 Voor de betavakken zijn wiskundige vergelijkingen essentieel. In het volgende staat een voorbeeld hoe een vergelijking kan worden ingevoegd'
 
-$$F_{res} = m.a$$ (1.1)
+$$F_{res} = m.a$$ (eq:Newton)
 
-Waarbij naar gelabelde vergelijkingen, zoals vergelijking {eq}`1.1` naar verwezen kan worden. Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
+Waarbij naar gelabelde vergelijkingen, zoals vergelijking {eq}`eq:Newton` naar verwezen kan worden. Maar je kunt ook inline vergelijkingen opnemen zoals deze: $s=v_{gem}.t$
 
 ## Een tabel invoegen
 
@@ -76,6 +76,6 @@ De link naar een website wordt gemaakt met:
 
 De verwijzing naar vergelijking {eq}`1.1`
 
-De verwijzing naar {numref}`Tabel {1} sancties`
+De verwijzing naar {numref}`Tabel {number} <sancties>`
 
-De verwijzing naar {numref}`Figuur 2 fig_Crezeepolder`
+De verwijzing naar {numref}`Figuur {number} <fig_Crezeepolder>`
