@@ -2,14 +2,17 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption:
+  - caption: Uitleg
     chapters:
     - file: start.md
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
       - file: file_to_be_added_to_toc.md
-    - file: aanpassingen_via_github.md 
+    - file: aanpassingen_via_github.md
+
+  - caption: Oefeningen
+    chapters:    
     - file: exercises
       sections:
       - file: exercises/001.md
