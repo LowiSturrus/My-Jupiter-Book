@@ -100,7 +100,7 @@ In {numref}`Tabel {number} <wiskundigebewerkingen>` zijn de notaties voor wiskun
   - $\frac{\Delta f(t)}{\Delta t}$
 * - integraal
   - `\int_a^b f(x)dx`
-  - $\int_a^b dx$
+  - $\int_a^b f(x)dx$
 * - sinus
   - `sin(x)`
   - $sin(x)$                         
