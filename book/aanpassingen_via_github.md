@@ -94,7 +94,7 @@ In {numref}`Tabel {number} <wiskundigebewerkingen>` zijn de notaties voor wiskun
   - $2^{N}$
 * - vermenigvuldiging
   - `\cdot`
-  - $\4cdot3$
+  - 4$\cdot$3
 * - afgeleide
   - `\frac{\Delta f(t)}{\Delta t}`
   - $\frac{\Delta f(t)}{\Delta t}$
@@ -120,7 +120,13 @@ De verwijzing naar {numref}`Figuur {number} <fig_Crezeepolder>`
 
 ## Admonitions
 
-Er zijn een paar voorgeprogrammeerde blokken. Dit zijn: warning, tip, danger, note, admonition, important
+Er zijn een paar voorgeprogrammeerde blokken. Dit zijn:
+- warning
+- tip
+- danger
+- note
+- admonition
+- important
 
 ```{warning}
 Dit is een waarschuwing!
@@ -130,6 +136,19 @@ Dit is een waarschuwing!
 :class: dropdown
 Je kunt een dropdown class toevoegen `:class: dropdown`. 
 ```
+
+```{important} 
+Dit is belangrijk en moet worden onthouden
+```
+
+```{note} 
+Dit is een note
+```
+
+```{danger} 
+Als je nu doorgaat, kun je belangrijke informatie verwijderen
+```
+
 
 ```{exercise}
 Work through the exercises attached to this page (you can find them in the left sidebar).
@@ -144,3 +163,14 @@ Wat is 4x2?
 :class: dropdown
 4x2 = 8
 ```
+
+```{solution} ex_kleine_opdracht
+:class: dropdown
+4x2 = 8
+```
+
+```{important} 
+Dit is belangrijk en moet worden onthouden
+```
+
+
