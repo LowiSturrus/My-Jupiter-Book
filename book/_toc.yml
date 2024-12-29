@@ -9,11 +9,7 @@ parts:
       sections:
       - file: some_content/text_and_code.ipynb
       - file: file_to_be_added_to_toc.md
-    - file: aanpassingen_via_github.md
-
-parts:
-  - caption: Oefeningen
-    chapters:    
+    - file: aanpassingen_via_github.md 
     - file: exercises
       sections:
       - file: exercises/001.md
