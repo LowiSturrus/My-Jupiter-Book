@@ -88,19 +88,19 @@ In {numref}`Tabel {number} <wiskundigebewerkingen>` zijn de notaties voor wiskun
   - $\frac{2}{3}$
 * - subscript
   - `_{gem}`
-  - - $_{gem}$
+  - $_{gem}$
 * - superscript
   - `^{N}`
-  - - $^{N}$
+  - $^{N}$
 * - vermenigvuldiging
   - `\cdot`
-  - - $\cdot$
+  - $\cdot$
 * - afgeleide
-  - a`\frac{\Delta f}{\Delta t}`
-  -   - $\frac{\Delta f}{\Delta t}$
+  - `\frac{\Delta f}{\Delta t}`
+  - $\frac{\Delta f}{\Delta t}$
 * - integraal
-  - i`\int_a^b dx`
-  - - $\int_a^b dx$
+  - `\int_a^b dx`
+  - $\int_a^b dx$
 * - sinus
   - `sin(x)`
   - $sin(x)$                         
