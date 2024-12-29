@@ -81,25 +81,25 @@ In {numref}`Tabel {number} <wiskundigebewerkingen>` zijn de notaties voor wiskun
   - `\sqrt{4}`
   - $\sqrt{4}$
 * - macht
-  - `^{2x}`                                      
-  - $^{2x}$
+  - `5^{2x}`                                      
+  - $5^{2x}$
 * - breuk
   - `\frac{2}{3}`                                      
   - $\frac{2}{3}$
 * - subscript
-  - `_{gem}`
-  - $_{gem}$
+  - `v_{gem}`
+  - $v_{gem}$
 * - superscript
-  - `^{N}`
-  - $^{N}$
+  - `2^{N}`
+  - $2^{N}$
 * - vermenigvuldiging
   - `\cdot`
-  - $\cdot$
+  - $\4cdot3$
 * - afgeleide
-  - `\frac{\Delta f}{\Delta t}`
-  - $\frac{\Delta f}{\Delta t}$
+  - `\frac{\Delta f(t)}{\Delta t}`
+  - $\frac{\Delta f(t)}{\Delta t}$
 * - integraal
-  - `\int_a^b dx`
+  - `\int_a^b f(x)dx`
   - $\int_a^b dx$
 * - sinus
   - `sin(x)`
