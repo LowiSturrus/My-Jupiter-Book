@@ -1,10 +1,10 @@
 format: jb-book
-root: start.md
+root: intro.md
 
 parts:
   - caption:
     chapters:
-    - file: intro.md
+    - file: start.md
 
 parts:
   - caption: Contents
