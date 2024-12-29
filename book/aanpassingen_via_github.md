@@ -69,6 +69,43 @@ Er zijn twee methoden om een tabel in te voegen. Die worden hieronder getoond.
   - geroyeerd              
 ``` 
 
+In {numref}`Tabel {number} <wiskundigebewerkingen>` zijn de notaties voor wiskunde bewerkingen opgenomen.
+
+```{list-table} Overzicht van notaties voor wiskunde bewerkingen
+:header-rows: 1
+:name: wiskundigebewerkingen
+* - Naam
+  - wortel                                      
+  - macht
+  - breuk
+  - subscript                                       
+  - superscript
+  - vermenigvuldiging
+  - afgeleide                                       
+  - integraal
+  - sinus
+* - Script                                      
+  - `\sqrt{4}`
+  - `^{2x}`
+  - `\frac{2}{3}`                                       
+  - `_{gem}`
+  - `^{N}`
+  - `\cdot`
+  - a`\frac{\Delta f}{\Delta t}`                                       
+  - i`\int_a^b dx`
+  - `sin(x)`
+* - Symbolen                                      
+  - \sqrt{4}$
+  - $^{2x}$
+  - $\frac{2}{3}$
+  - $_{gem}$
+  - $^{N}$
+  - $\cdot$
+  - $\frac{\Delta f}{\Delta t}$
+  - $\int_a^b dx$
+  - $sin(x)$                         
+``` 
+
 ## Referenties
 
 De link naar een website wordt gemaakt met:
