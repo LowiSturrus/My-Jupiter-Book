@@ -126,11 +126,17 @@ Er zijn een paar voorgeprogrammeerde blokken. Dit zijn: warning, tip, danger, no
 Dit is een waarschuwing!
 ```
 
-Of:
-
 ```{tip}
 :class: dropdown
 Je kunt een dropdown class toevoegen `:class: dropdown`. 
 ```
 
+```{exercise} Vermenigvuldiging
+    :label: ex_kleine_opdracht
+    Wat is 4x2?
+```
 
+```{solution} ex_kleine_opdracht
+    :class: dropdown
+    4x2 = 8
+```
