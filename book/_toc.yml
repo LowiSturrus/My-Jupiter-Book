@@ -9,7 +9,9 @@ parts:
       - file: some_content/text_and_code.ipynb
       - file: file_to_be_added_to_toc.md
     - file: aanpassingen_via_github.md
+      numbered: true
     - file: exercises
+      numbered: true
       sections:
       - file: exercises/001.md
       - file: exercises/002.md
