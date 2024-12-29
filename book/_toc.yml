@@ -1,10 +1,5 @@
 format: jb-book
-root: start
-
-parts:
-  - caption:
-    chapters:
-    - file: intro.md
+root: intro.md
 
 parts:
   - caption: Contents
@@ -13,16 +8,6 @@ parts:
       sections:
       - file: some_content/text_and_code.ipynb
       - file: file_to_be_added_to_toc.md
-
-    - caption: Software
-      chapters:
-      - file: Software/Intro
-      - file: Software/Github
-      - file: Software/VSC
-      - file: Software/Anaconda
-      - file: Software/CoLab
-      - file: Software/Arduino
-    
     - file: aanpassingen_via_github.md
     - file: exercises
       sections:
