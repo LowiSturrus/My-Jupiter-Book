@@ -42,6 +42,8 @@ sphinx:
     - download_link_replacer
     - sphinx.ext.extlinks
     - sphinx_image_inverter
+    #- jupyterbook_patches
+    - sphinx_exercise
 
 
 bibtex_bibfiles: 
