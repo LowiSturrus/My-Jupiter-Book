@@ -136,11 +136,11 @@ Work through the exercises attached to this page (you can find them in the left 
 ```
 
 ```{exercise} Vermenigvuldiging
-    :label: ex_kleine_opdracht
-    Wat is 4x2?
+:label: ex_kleine_opdracht
+Wat is 4x2?
 ```
 
 ```{solution} ex_kleine_opdracht
-    :class: dropdown
-    4x2 = 8
+:class: dropdown
+4x2 = 8
 ```
