@@ -164,6 +164,11 @@ Wat is 4x2?
 4x2 = 8
 ```
 
+
+## Literatuurverwijzingen
+
+Vppr het maken van litaratuurverwijzingen moeten deze opgenomen zijn in het bestand 'refernces.bib'
+
 @misc{jason_moore,
   title={Learn Multibody Dynamics, SymPy},
   author={Moore, Jason},
