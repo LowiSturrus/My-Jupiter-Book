@@ -36,6 +36,7 @@ parts:
       - file: exercises/summary
     
   - caption:
+    chapters:
     - file: references.md
     - file: changelog.md
     - file: credits.md
