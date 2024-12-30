@@ -18,7 +18,9 @@ parts:
       - file: changes/visueel.md
       - file: changes/vergelijkingen.md
       - file: changes/tabellen.md
-      - file: changes/amolitions.md
+      - file: changes/referenties.md
+      - file: changes/admolitions.md
+      - file: changes/literatuurverwijzingen.md
 
   - caption: Oefeningen
     numbered: true
