@@ -150,10 +150,6 @@ Dit is een waarschuwing!
 Als je nu doorgaat, kun je belangrijke informatie verwijderen
 ```
 
-```{admonition} 
-Wat is een admonition?
-```
-
 ```{exercise}
 Work through the exercises attached to this page (you can find them in the left sidebar).
 ```
@@ -168,13 +164,11 @@ Wat is 4x2?
 4x2 = 8
 ```
 
-```{solution} ex_kleine_opdracht
-:class: dropdown
-4x2 = 8
-```
-
-```{important} 
-Dit is belangrijk en moet worden onthouden
-```
+@misc{jason_moore,
+  title={Learn Multibody Dynamics, SymPy},
+  author={Moore, Jason},
+  howpublished={\url{https://moorepants.github.io/learn-multibody-dynamics/sympy.html}},
+  year={2023}
+}
 
 
