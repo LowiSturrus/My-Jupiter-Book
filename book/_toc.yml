@@ -15,6 +15,7 @@ parts:
     chapters:    
     - file: aanpassingen_via_github.md
       sections:
+      - file: visueel.md
       - file: changes/vergelijkingen.md
       - file: changes/tabellen.md
       - file: changes/referenties.md
@@ -34,6 +35,7 @@ parts:
       - file: exercises/006.md
       - file: exercises/summary
     
+  - caption: 
     - file: references.md
     - file: changelog.md
     - file: credits.md
