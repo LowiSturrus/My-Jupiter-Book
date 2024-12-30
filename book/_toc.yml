@@ -15,10 +15,10 @@ parts:
     chapters:    
     - file: aanpassingen_via_github.md
       sections:
-      - file: vergelijkingen.md
-      - file: visueel.md
-      - file: tabellen.md
-      - file: amolitions.md
+      - file: changes/vergelijkingen.md
+      - file: changes/visueel.md
+      - file: changes/tabellen.md
+      - file: changes/amolitions.md
 
   - caption: Oefeningen
     numbered: true
