@@ -1,8 +1,6 @@
 # Mijn eerste aanpassingen via gitHub
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-In de volgende paragraven worden ingevoerd:
+Belangrijk bij het maken van Jupyter-Books is het invoeren van objecten/itesm. Dat wordt uitgelegd in de volgende paragraven. Aan de orde komen:
 - Een afbeelding
 - Een video op YouTube
 - Vergelijkingen (twee manieren)
