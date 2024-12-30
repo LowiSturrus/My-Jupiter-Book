@@ -34,7 +34,8 @@ parts:
       - file: exercises/006.md
       - file: exercises/summary
     
-  - caption:   
+  - caption: Afsluiting
+    numbered: true
     chapters:
     - file: references.md
     - file: changelog.md
