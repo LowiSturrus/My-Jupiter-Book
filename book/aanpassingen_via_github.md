@@ -121,15 +121,16 @@ De verwijzing naar {numref}`Figuur {number} <fig_Crezeepolder>`
 ## Admonitions
 
 Er zijn een paar voorgeprogrammeerde blokken. Dit zijn:
-- warning
-- tip
-- danger
 - note
-- admonition
+- tip
 - important
+- warning
+- danger
+- admonition
+- exercise
 
-```{warning}
-Dit is een waarschuwing!
+```{note} 
+Dit is een note
 ```
 
 ```{tip}
@@ -141,14 +142,17 @@ Je kunt een dropdown class toevoegen `:class: dropdown`.
 Dit is belangrijk en moet worden onthouden
 ```
 
-```{note} 
-Dit is een note
+```{warning}
+Dit is een waarschuwing!
 ```
 
 ```{danger} 
 Als je nu doorgaat, kun je belangrijke informatie verwijderen
 ```
 
+```{admonition} 
+Wat is een admonition?
+```
 
 ```{exercise}
 Work through the exercises attached to this page (you can find them in the left sidebar).
