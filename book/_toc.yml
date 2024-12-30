@@ -18,6 +18,7 @@ parts:
       - file: vergelijkingen.md
       - file: visueel.md
       - file: tabellen.md
+      - file: amolitions.md
 
   - caption: Oefeningen
     numbered: true
