@@ -11,10 +11,15 @@ parts:
       - file: file_to_be_added_to_toc.md
 
   - caption: Uitleg
+    numbered: true
     chapters:    
     - file: aanpassingen_via_github.md
+      sections:
+      - file: vergelijkingen.md
+      - file: visueel.md
 
   - caption: Oefeningen
+    numbered: true
     chapters:    
     - file: exercises
       sections:
