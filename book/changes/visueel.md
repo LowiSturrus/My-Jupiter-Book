@@ -2,7 +2,7 @@
 
 Onder visuele middelen wordt verstaan afbeeldingen en video's. Hoe deze kunnen worden ingevoegd wordt hieronder getoond.
 
-# Aanmaken van een afbeelding
+## Aanmaken van een afbeelding
 
 ``` {figure} /figures/FotoCrezeepolder.JPG
 ---
@@ -13,7 +13,7 @@ name: fig_Crezeepolder
 Crezeepolder Ridderkerk
 ``` 
 
-# Invoegen van een YouTube-video
+## Invoegen van een YouTube-video
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 75%; height: 0; padding-bottom: 56.25%;">
