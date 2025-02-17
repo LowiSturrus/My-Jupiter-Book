@@ -8,13 +8,21 @@ parts:
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
-      - file: file_to_be_added_to_toc.md
 
   - caption: Uitleg
+    numbered: true
     chapters:    
     - file: aanpassingen_via_github.md
+      sections:
+      - file: changes/visueel.md
+      - file: changes/vergelijkingen.md
+      - file: changes/tabellen.md
+      - file: changes/referenties.md
+      - file: changes/admolitions.md
+      - file: changes/literatuurverwijzingen.md
 
   - caption: Oefeningen
+    numbered: true
     chapters:    
     - file: exercises
       sections:
@@ -26,6 +34,9 @@ parts:
       - file: exercises/006.md
       - file: exercises/summary
     
+  - caption: Afsluiting
+    numbered: true
+    chapters:
     - file: references.md
     - file: changelog.md
     - file: credits.md
